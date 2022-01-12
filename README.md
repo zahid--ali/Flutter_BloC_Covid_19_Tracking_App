@@ -1,6 +1,6 @@
 # cenimanic
 
-This is a mobile app for tracking covid 19 cases based on countries.
+This is a mobile app for tracking covid 19 cases based on countries. This is a sample app using bloc pattern to call and API and display the data.
 
 ## Getting Started
 
