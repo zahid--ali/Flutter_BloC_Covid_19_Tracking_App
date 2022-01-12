@@ -1,6 +1,6 @@
 # cenimanic
 
-recommend movies based on your watchlist and favourites
+This is a mobile app for tracking covid 19 cases based on countries.
 
 ## Getting Started
 
